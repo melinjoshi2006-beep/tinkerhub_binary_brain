@@ -2,32 +2,35 @@
 
 
 
-# [Project Name] 🎯
+# [LAPTOP EMOTIONAL SUPPORT SYSTEM] 🎯
 
 
-## Basic Details
-### Team Name: [Name]
-
+##
+### Team Name: binary brains
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
+- Team Lead: [UNNIKRISHNAN A] - [CARMEL COLLEGE OF ENGINEERING AND TECHNOLOGY]
+- Member 2: [MELIN JOSHI ] - [CARMEL COLLEGE OF ENGINEERING AND TECHNOLOGY]
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+Laptop’s Emotional Support System is a fun, interactive web application that gives your laptop a personality, emotions, and a relationship with its user.
+
+Instead of treating a laptop as just a machine, the project imagines what would happen if it could feel, react, get annoyed, appreciate compliments, and remember how you treat it. The laptop’s emotional state changes based on the user’s actions, affecting its stress, patience, and trust levels.
+
+Users can interact with the laptop through simple actions such as asking how it feels, complimenting it, or annoying it. These interactions trigger different responses and gradually change the relationship between the user and the laptop — from Neutral to Getting Along, It's Complicated, or even Enemies.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+laptops are getting lonlie nowadays
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Give them a support they need.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
+- css,html,java
+- vs code
 - [Libraries used]
 - [Tools used]
 
